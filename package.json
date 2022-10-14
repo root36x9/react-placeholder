@@ -69,7 +69,7 @@
     "webpack": "3.5.5"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17"
+    "react": "^16.8.0 || ^17 || 18.2.0"
   },
   "jest": {
     "testURL": "http://localhost",
